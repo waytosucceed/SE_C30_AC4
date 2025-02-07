@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "A regular hexagonal-shaped garden is formed by joining a square of side 12 yards and two congruent right triangles. Find the total area of the garden.",
+    "options": [
+      "1432 ft²",
+      "2722 ft²",
+      "2558 ft²",
+      "2592 ft²"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "A2",
+    "question": "A composite shape consists of a rectangle (20 m × 10 m) and a semicircle attached to one of its shorter sides. Find the total perimeter. <br><br>(Semicircle perimeter = 3.14 × r,<br> where r = radius)",
+    "options": [
+      "65.7 m",
+      "68.3 m",
+      "72.4 m",
+      "74.2 m"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Smith has seven square tiles with a side length of 10 cm. He wants to arrange them edge-to-edge to form a shape with the greatest possible perimeter. What is the maximum perimeter he can achieve?",
+    "options": [
+      "160 cm",
+      "140 cm",
+      "120 cm",
+      "100 cm"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "The given figure is made up of a square ABCD and a rectangle PQRS. The length and breadth of the rectangle are 6 cm and 3 cm respectively and the side of the square is 12 cm. Find the area of the whole figure.<br><img width='55%' src='./assests/images/1.png'>",
+    "options": [
+      "142 sq. cm",
+      "164 sq. cm",
+      "184 sq. cm",
+      "156 sq. cm"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What is the smallest possible perimeter Harry can achieve by arranging 6 square tiles each of 1ft side, edge-to-edge?",
+    "options": [
+      "80 in",
+      "100 in",
+      "120 in",
+      "140 in"
+    ],
+    "correct": 2
+  }
+]
