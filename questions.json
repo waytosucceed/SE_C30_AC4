@@ -34,7 +34,7 @@
   },
   {
     "questionNo": "Q4",
-    "question": "The given figure is made up of a square ABCD and a rectangle PQRS. The length and breadth of the rectangle are 6 cm and 3 cm respectively and the side of the square is 12 cm. Find the area of the whole figure.<br><img width='55%' src='./assests/images/1.png'>",
+    "question": "The given figure is made up of a square ABCD and a rectangle PQRS. The length and width of the rectangle are 6 cm and 3 cm respectively and the side of the square is 12 cm. Find the area of the whole figure.<br><img width='55%' src='./assests/images/1.png'>",
     "options": [
       "142 sq. cm",
       "164 sq. cm",
